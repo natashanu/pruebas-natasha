@@ -1,0 +1,7 @@
+/Hola/nbproject/private/
+build/
+*.class
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
